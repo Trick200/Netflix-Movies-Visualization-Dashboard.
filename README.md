@@ -1,4 +1,4 @@
-# Netflix Data Analysis Dashboard
+# Netflix Movies and TV shows Analysis Dashboard
 
 ## Project Overview
 This project analyzes Netflix Movies and TV Shows data using Power BI. The goal is to uncover insights related to content distribution, genres, ratings, release trends, and country-wise availability. The dashboard helps users understand Netflix's content strategy and growth patterns through interactive visualizations.
